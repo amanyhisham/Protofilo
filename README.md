@@ -1,4 +1,4 @@
-
+ 
 # 🌐 Amany Hesham — My Portfolio
 
 My personal **Front-End Developer Portfolio** showcasing my skills and projects, built with **HTML** and **CSS**.
@@ -42,7 +42,7 @@ Protofilo/
 
 ## 🔗 Find Me On
 
-[![LinkedIn] (https://www.linkedin.com/in/amanyhesham/).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amanyhesham/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/amanyhisham)
 
 ---
