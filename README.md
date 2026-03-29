@@ -42,7 +42,7 @@ Protofilo/
 
 ## 🔗 Find Me On
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amanyhisham)
+[![LinkedIn] (https://www.linkedin.com/in/amanyhesham/).
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/amanyhisham)
 
 ---
